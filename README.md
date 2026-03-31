@@ -49,7 +49,7 @@ unified-data-pipeline/
 ### 1️⃣ Clone the repository
 
 ```id="a8x3pz"
-git clone https://github.com/your-username/unified-data-pipeline.git
+git clone https://github.com/san7499/unified-data-pipeline.git
 cd unified-data-pipeline
 ```
 
